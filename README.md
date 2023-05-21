@@ -1,5 +1,5 @@
 
-# Bitcoin Ticker 🤑
+# Bitcoin Ticker 
 
 ## Our Goal
 
